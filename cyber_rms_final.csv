@@ -1,0 +1,21 @@
+incident_id,date,risk_type,source,likelihood,impact_score,qualitative_level,response_action,response_type,status,last_update,notes,report_link
+101,2025-09-01,phishing,user report,0.7,4000,High,Block sender, train users,mitigate,resolved,2025-09-05,Sender blocked, users trained,report_phishing_101.pdf
+102,2025-09-02,malware,SIEM alert,0.6,3000,High,Isolate endpoint, scan for threats,mitigate,resolved,2025-09-06,Endpoint isolated, threat removed,report_malware_102.pdf
+103,2025-09-03,data breach,audit,0.3,9000,High,Notify authorities, reset passwords,accept,resolved,2025-09-07,Passwords reset, authority notified,report_databreach_103.pdf
+104,2025-09-04,ransomware,SOC investigation,0.8,7000,High,Restore backup, disconnect systems,mitigate,in progress,2025-09-08,Backup restoration ongoing,report_ransomware_104.pdf
+105,2025-09-05,DDoS,SIEM alert,0.5,2000,Medium,Activate DDoS protection,mitigate,resolved,2025-09-09,DDoS protection activated,report_ddos_105.pdf
+106,2025-09-06,insider threat,audit,0.2,2500,Medium,Increase monitoring, HR review,transfer,open,2025-09-10,HR reviewing case,report_insider_106.pdf
+107,2025-09-07,malware,user report,0.6,1100,Medium,Scan endpoint, educate user,mitigate,resolved,2025-09-11,Endpoint scanned and clean,report_malware_107.pdf
+108,2025-09-08,phishing,user report,0.4,1200,Medium,Warn user, block sender,mitigate,resolved,2025-09-12,User warned, sender blocked,report_phishing_108.pdf
+109,2025-09-09,SQL injection,SIEM alert,0.3,1500,Medium,Patch vulnerability, monitor logs,mitigate,resolved,2025-09-13,Vulnerability patched,report_sqlinjection_109.pdf
+110,2025-09-10,phishing,user report,0.7,3200,High,Block sender, train users,mitigate,resolved,2025-09-14,Sender blocked, users trained,report_phishing_110.pdf
+111,2025-09-11,malware,SIEM alert,0.4,1000,Medium,Scan endpoint, educate user,mitigate,resolved,2025-09-15,Routine response,report_malware_111.pdf
+112,2025-09-12,phishing,user report,0.5,1500,Medium,Warn user, block sender,mitigate,resolved,2025-09-16,Routine response,report_phishing_112.pdf
+113,2025-09-13,malware,SIEM alert,0.6,2000,High,Scan endpoint, educate user,mitigate,open,2025-09-17,Routine response,report_malware_113.pdf
+114,2025-09-14,phishing,user report,0.7,2500,High,Warn user, block sender,mitigate,resolved,2025-09-18,Routine response,report_phishing_114.pdf
+115,2025-09-15,malware,SIEM alert,0.3,3000,Medium,Scan endpoint, educate user,mitigate,resolved,2025-09-19,Routine response,report_malware_115.pdf
+116,2025-09-16,phishing,user report,0.4,3500,Medium,Warn user, block sender,mitigate,resolved,2025-09-20,Routine response,report_phishing_116.pdf
+117,2025-09-17,malware,SIEM alert,0.5,1000,Medium,Scan endpoint, educate user,mitigate,resolved,2025-09-21,Routine response,report_malware_117.pdf
+118,2025-09-18,phishing,user report,0.6,1500,High,Warn user, block sender,mitigate,resolved,2025-09-22,Routine response,report_phishing_118.pdf
+119,2025-09-19,malware,SIEM alert,0.7,2000,High,Scan endpoint, educate user,mitigate,open,2025-09-23,Routine response,report_malware_119.pdf
+120,2025-09-20,phishing,user report,0.3,2500,Medium,Warn user, block sender,mitigate,resolved,2025-09-24,Routine response,report_phishing_120.pdf
