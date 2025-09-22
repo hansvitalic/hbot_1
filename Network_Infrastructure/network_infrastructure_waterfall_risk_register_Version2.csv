@@ -1,0 +1,51 @@
+Telecom Sector,Project Management Methodology,Risk Category,Risk Type,Risk Description,Risk Owner,Severity,Likelihood,Impact Score,Status,Recommended Action,RMS Step
+Network Infrastructure,Waterfall,Regulatory,Compliance,Failure to meet new data protection regulations,Compliance Manager,High,Medium,8,Open,Conduct compliance audit,Identification
+Network Infrastructure,Waterfall,Financial,Budget Overrun,Unexpected cost increases in hardware procurement,Finance Lead,Medium,Low,6,Open,Renegotiate supplier contracts,Identification
+Network Infrastructure,Waterfall,Operational,System Failure,Frequent outages due to outdated routers,Network Engineer,High,High,9,In Progress,Upgrade hardware,Analysis
+Network Infrastructure,Waterfall,Technical,Software Bug,Critical bug found in network management software,IT Manager,High,Medium,8,Open,Patch software,Analysis
+Network Infrastructure,Waterfall,Environmental,Flood,Flood risk to underground cabling,Facilities Manager,High,Low,7,Open,Relocate vulnerable assets,Identification
+Network Infrastructure,Waterfall,Security,Cyberattack,Network vulnerable to cyber attacks,CISO,High,High,9,Open,Enhance security protocols,Assessment
+Network Infrastructure,Waterfall,Human Resources,Workforce Shortage,Shortage of skilled network technicians,HR Manager,Medium,Medium,6,Open,Recruit and train staff,Identification
+Network Infrastructure,Waterfall,Strategic,Market Change,Competitor launches superior network technology,Strategy Lead,Medium,Low,6,Open,Review technology roadmap,Identification
+Network Infrastructure,Waterfall,Reputational,Negative Press,Negative news coverage due to service outage,PR Manager,High,Medium,8,Open,Issue press release,Response
+Network Infrastructure,Waterfall,Customer Impact,Service Downtime,Unplanned extended service downtime,Customer Service Lead,High,High,9,Open,Notify customers and resolve outage,Response
+Network Infrastructure,Waterfall,Regulatory,Reporting,Delayed regulatory reporting,Compliance Manager,Medium,Low,5,Open,Automate reporting processes,Monitoring
+Network Infrastructure,Waterfall,Financial,Fraud,Financial fraud in vendor transactions,Audit Manager,High,Low,7,Open,Implement transaction monitoring,Assessment
+Network Infrastructure,Waterfall,Operational,Capacity Planning,Insufficient bandwidth for peak traffic,Infrastructure Architect,Medium,High,7,Open,Increase bandwidth,Identification
+Network Infrastructure,Waterfall,Technical,Obsolescence,End-of-life for critical network hardware,Network Engineer,High,Low,6,Open,Plan phased replacement,Planning
+Network Infrastructure,Waterfall,Environmental,Fire,Fire risk at data centers,Facilities Manager,High,Low,7,Open,Install advanced fire suppression,Identification
+Network Infrastructure,Waterfall,Security,Physical Breach,Unauthorized access to telecom facilities,Security Officer,High,Medium,8,Open,Install advanced access controls,Identification
+Network Infrastructure,Waterfall,Human Resources,Human Error,Manual errors during installation,Network Engineer,Medium,Medium,6,Open,Increase staff training,Assessment
+Network Infrastructure,Waterfall,Strategic,Vendor Lock-in,Dependency on single vendor for key equipment,Strategy Lead,Medium,Medium,7,Open,Diversify suppliers,Assessment
+Network Infrastructure,Waterfall,Reputational,Customer Complaints,High volume of customer complaints,PR Manager,High,High,9,Open,Improve customer support,Response
+Network Infrastructure,Waterfall,Customer Impact,SLA Breach,Failure to meet SLA commitments,Customer Service Lead,High,Medium,8,Open,Review SLA terms,Identification
+Network Infrastructure,Waterfall,Regulatory,Licensing,Expired network operating licenses,Legal Counsel,Medium,Low,5,Open,Renew licenses,Identification
+Network Infrastructure,Waterfall,Financial,Investment Shortfall,Insufficient investment in upgrades,Finance Lead,Medium,Medium,7,Open,Seek additional funding,Planning
+Network Infrastructure,Waterfall,Operational,Process Inefficiency,Lengthy network maintenance procedures,Process Manager,Medium,Medium,6,Open,Optimize procedures,Analysis
+Network Infrastructure,Waterfall,Technical,Compatibility Issue,New hardware incompatible with legacy systems,Infrastructure Architect,Medium,Medium,7,Open,Test compatibility before purchase,Identification
+Network Infrastructure,Waterfall,Environmental,Extreme Weather,Extreme weather affecting outdoor equipment,Facilities Manager,High,Low,8,Open,Weather-proof installations,Monitoring
+Network Infrastructure,Waterfall,Security,Data Breach,Unauthorized exposure of customer data,CISO,High,Medium,9,Open,Strengthen data security,Assessment
+Network Infrastructure,Waterfall,Human Resources,Staff Turnover,High turnover among network engineers,HR Manager,Medium,Medium,6,Open,Implement retention programs,Analysis
+Network Infrastructure,Waterfall,Strategic,Tech Disruption,Emergence of disruptive telecom tech,Strategy Lead,Medium,Low,6,Open,Research new technologies,Identification
+Network Infrastructure,Waterfall,Reputational,Social Media Backlash,Negative feedback on social media,PR Manager,High,Medium,8,Open,Engage with affected users,Response
+Network Infrastructure,Waterfall,Customer Impact,Poor Quality,Frequent quality issues in service,Customer Service Lead,High,Medium,8,Open,Implement quality checks,Monitoring
+Network Infrastructure,Waterfall,Regulatory,Health & Safety,Non-compliance with safety standards,Health & Safety Officer,Medium,Low,5,Open,Conduct safety training,Assessment
+Network Infrastructure,Waterfall,Financial,Delayed Payments,Delayed payments to suppliers,Finance Lead,Medium,Medium,7,Open,Automate payment processing,Assessment
+Network Infrastructure,Waterfall,Operational,Redundancy Failure,Failure of network redundancy systems,Network Engineer,High,Low,8,Open,Test redundancy systems regularly,Monitoring
+Network Infrastructure,Waterfall,Technical,Patch Management,Delayed software patching,IT Manager,Medium,Low,6,Open,Automate patch scheduling,Identification
+Network Infrastructure,Waterfall,Environmental,Earthquake,Earthquake risk to infrastructure,Facilities Manager,High,Low,8,Open,Earthquake-proof installations,Assessment
+Network Infrastructure,Waterfall,Security,Encryption Failure,Failure of encryption software,Security Officer,High,Low,8,Open,Upgrade encryption protocols,Analysis
+Network Infrastructure,Waterfall,Human Resources,Training Gap,Insufficient training programs for tech staff,HR Manager,Medium,Medium,6,Open,Launch training initiatives,Planning
+Network Infrastructure,Waterfall,Strategic,Market Saturation,Limited growth due to saturated market,Strategy Lead,Medium,Low,5,Open,Explore new markets,Identification
+Network Infrastructure,Waterfall,Reputational,Brand Damage,Brand damage after repeated outages,PR Manager,High,High,9,Open,Rebrand and improve reliability,Response
+Network Infrastructure,Waterfall,Customer Impact,Billing Error,Errors in customer billing system,Customer Service Lead,Medium,Medium,7,Open,Audit billing system,Assessment
+Network Infrastructure,Waterfall,Regulatory,Import Restrictions,Delays due to new import restrictions,Supply Chain Manager,Medium,Low,5,Open,Seek alternative suppliers,Assessment
+Network Infrastructure,Waterfall,Financial,Unexpected Fees,Unexpected regulatory fees,Finance Lead,Medium,Low,5,Open,Review fee structures,Identification
+Network Infrastructure,Waterfall,Operational,Inventory Error,Errors in network equipment inventory,Inventory Manager,Medium,Medium,6,Open,Implement inventory management system,Identification
+Network Infrastructure,Waterfall,Technical,Integration Failure,Failure to integrate new systems,IT Manager,High,Low,8,Open,Conduct integration testing,Planning
+Network Infrastructure,Waterfall,Environmental,Power Outage,Frequent power outages affecting network,Facilities Manager,High,Medium,8,Open,Install backup generators,Planning
+Network Infrastructure,Waterfall,Security,Insider Threat,Malicious actions by internal staff,CISO,High,Low,7,Open,Monitor staff activity,Assessment
+Network Infrastructure,Waterfall,Human Resources,Recruitment Delay,Delays in hiring technical staff,HR Manager,Medium,Low,5,Open,Streamline recruitment process,Identification
+Network Infrastructure,Waterfall,Strategic,M&A Risk,Risks from mergers and acquisitions,Strategy Lead,Medium,Medium,6,Open,Conduct M&A risk analysis,Assessment
+Network Infrastructure,Waterfall,Reputational,Unresolved Issues,Public criticism due to unresolved issues,PR Manager,High,Medium,8,Open,Improve issue resolution,Response
+Network Infrastructure,Waterfall,Customer Impact,Delayed Response,Slow response to customer complaints,Customer Service Lead,Medium,Medium,7,Open,Improve response time,Monitoring
